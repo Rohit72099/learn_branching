@@ -1,0 +1,23 @@
+.media {
+    align-items: center;
+    display: inline-flex;
+    gap: 5px;
+    position: relative;
+  }
+  
+  .media .discord {
+    height: 32px;
+    position: relative;
+    width: 32px;
+  }
+  
+  .media .elias {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }

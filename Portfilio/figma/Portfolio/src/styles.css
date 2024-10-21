@@ -1,0 +1,1018 @@
+.home {
+    background-color: #282c33;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div-2 {
+    background-color: var(--background);
+    height: 3192px;
+    overflow: hidden;
+    position: relative;
+    width: 1453px;
+  }
+  
+  .home .overlap {
+    height: 2181px;
+    left: -77px;
+    position: absolute;
+    top: 658px;
+    width: 1530px;
+  }
+  
+  .home .background {
+    height: 2136px;
+    left: 0;
+    position: absolute;
+    top: 14px;
+    width: 1530px;
+  }
+  
+  .home .frame-13 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 103px;
+    justify-content: space-between;
+    left: 1363px;
+    position: absolute;
+    top: 1622px;
+    width: 103px;
+  }
+  
+  .home .frame-14 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home .ellipse {
+    background-color: var(--gray);
+    border-radius: 2px;
+    height: 4px;
+    position: relative;
+    width: 4px;
+  }
+  
+  .home .frame-15 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 103px;
+    justify-content: space-between;
+    left: 26px;
+    position: absolute;
+    top: 2033px;
+    width: 103px;
+  }
+  
+  .home .frame-16 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    left: 31px;
+    position: absolute;
+    top: 283px;
+  }
+  
+  .home .rectangle-2 {
+    border: 1px solid;
+    border-color: #abb2bf;
+    height: 155px;
+    left: 0;
+    position: absolute;
+    top: 1453px;
+    width: 155px;
+  }
+  
+  .home .rectangle-3 {
+    border: 1px solid;
+    border-color: #abb2bf;
+    height: 155px;
+    left: 1375px;
+    position: absolute;
+    top: 488px;
+    width: 155px;
+  }
+  
+  .home .rectangle-4 {
+    border: 1px solid;
+    border-color: #abb2bf;
+    height: 91px;
+    left: 1361px;
+    position: absolute;
+    top: 0;
+    width: 91px;
+  }
+  
+  .home .contact {
+    height: 228px;
+    left: 247px;
+    position: absolute;
+    top: 1953px;
+    width: 1023px;
+  }
+  
+  .home .h-2 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 317px !important;
+  }
+  
+  .home .div-wrapper {
+    height: 63px;
+    left: 0;
+    position: absolute;
+    top: 87px;
+    width: 507px;
+  }
+  
+  .home .text-wrapper-8 {
+    color: var(--gray);
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 505px;
+  }
+  
+  .home .frame-wrapper {
+    height: 141px;
+    left: 819px;
+    position: absolute;
+    top: 87px;
+    width: 204px;
+  }
+  
+  .home .frame-17 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    position: relative;
+  }
+  
+  .home .text-wrapper-9 {
+    color: var(--white);
+    font-family: "Fira Code-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .frame-18 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .home .media-instance {
+    flex: 0 0 auto !important;
+  }
+  
+  .home .about-me {
+    height: 508px;
+    left: 247px;
+    position: absolute;
+    top: 1333px;
+    width: 1025px;
+  }
+  
+  .home .about-me-2 {
+    height: 376px;
+    left: 1px;
+    position: absolute;
+    top: 65px;
+    width: 517px;
+  }
+  
+  .home .hello-i-m-elias-i-m {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    width: 515px;
+  }
+  
+  .home .h-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 516px !important;
+  }
+  
+  .home .group-2 {
+    height: 508px;
+    left: 682px;
+    position: absolute;
+    top: 0;
+    width: 343px;
+  }
+  
+  .home .overlap-group {
+    height: 507px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 343px;
+  }
+  
+  .home .image {
+    height: 507px;
+    left: 4px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 339px;
+  }
+  
+  .home .frame-19 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 84px;
+    justify-content: space-between;
+    left: 0;
+    position: absolute;
+    top: 59px;
+    width: 84px;
+  }
+  
+  .home .frame-20 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 56px;
+    justify-content: space-between;
+    left: 223px;
+    position: absolute;
+    top: 279px;
+    width: 104px;
+  }
+  
+  .home .line-stroke-3 {
+    height: 1px;
+    left: 48px;
+    position: absolute;
+    top: 507px;
+    width: 271px;
+  }
+  
+  .home .skills {
+    height: 365px;
+    left: 250px;
+    position: absolute;
+    top: 856px;
+    width: 1024px;
+  }
+  
+  .home .h2-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 391px !important;
+  }
+  
+  .home .group-3 {
+    height: 280px;
+    left: 440px;
+    position: absolute;
+    top: 85px;
+    width: 584px;
+  }
+  
+  .home .design-component-instance-node {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .home .block-instance {
+    left: 194px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .home .frame-21 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    left: 388px;
+    padding: 8px 0px;
+    position: absolute;
+    top: 148px;
+    width: 196px;
+  }
+  
+  .home .frame-22 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    padding: 0px 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home .line-2 {
+    align-self: stretch;
+    height: 1px;
+    object-fit: cover;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home .frame-23 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0px 8px;
+    position: relative;
+  }
+  
+  .home .frame-24 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .home .text-wrapper-10 {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .frame-25 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 11px;
+    position: relative;
+  }
+  
+  .home .frame-26 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    left: 194px;
+    padding: 8px 0px;
+    position: absolute;
+    top: 119px;
+    width: 178px;
+  }
+  
+  .home .frame-27 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 8px;
+    left: 388px;
+    padding: 8px 0px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home .group-4 {
+    height: 282px;
+    left: 32px;
+    position: absolute;
+    top: 54px;
+    width: 349px;
+  }
+  
+  .home .frame-28 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 63px;
+    justify-content: space-between;
+    left: 0;
+    position: absolute;
+    top: 38px;
+    width: 63px;
+  }
+  
+  .home .frame-29 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 63px;
+    justify-content: space-between;
+    left: 177px;
+    position: absolute;
+    top: 143px;
+    width: 63px;
+  }
+  
+  .home .rectangle-5 {
+    border: 1px solid;
+    border-color: #abb2bf;
+    height: 52px;
+    left: 297px;
+    position: absolute;
+    top: 193px;
+    width: 52px;
+  }
+  
+  .home .rectangle-6 {
+    border: 1px solid;
+    border-color: #abb2bf;
+    height: 86px;
+    left: 227px;
+    position: absolute;
+    top: 0;
+    width: 86px;
+  }
+  
+  .home .overlap-group-wrapper {
+    height: 113px;
+    left: 59px;
+    position: absolute;
+    top: 169px;
+    width: 113px;
+  }
+  
+  .home .overlap-group-2 {
+    height: 114px;
+    left: -1px;
+    position: relative;
+    width: 114px;
+  }
+  
+  .home .union {
+    height: 85px;
+    left: 58px;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }
+  
+  .home .union-2 {
+    height: 87px;
+    left: 0;
+    position: absolute;
+    top: 27px;
+    width: 58px;
+  }
+  
+  .home .projects-2 {
+    height: 518px;
+    left: 248px;
+    position: absolute;
+    top: 232px;
+    width: 1027px;
+  }
+  
+  .home .frame-30 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 16px;
+    left: 2px;
+    position: absolute;
+    top: 90px;
+  }
+  
+  .home .project-instance {
+    flex: 0 0 auto !important;
+    margin-left: -1px !important;
+    margin-top: -1px !important;
+  }
+  
+  .home .group-5 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    margin-bottom: -1px;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .home .rectangle-7 {
+    height: 202px;
+    object-fit: cover;
+    position: relative;
+    width: 330.58px;
+  }
+  
+  .home .frame-31 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    padding: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home .frame-32 {
+    align-items: flex-start;
+    align-self: stretch;
+    border-color: #abb2bf;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .home .chert-nodes-2 {
+    align-self: stretch;
+    color: var(--white);
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .home .minecraft-servers-2 {
+    align-self: stretch;
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+  }
+  
+  .home .frame-33 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .home .group-6 {
+    flex: 0 0 auto !important;
+    margin-right: -1px !important;
+    margin-top: -1px !important;
+  }
+  
+  .home .group-7 {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1029px;
+  }
+  
+  .home .view-all {
+    color: var(--white);
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 911px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .home .quote {
+    align-items: flex-start;
+    background-color: var(--background);
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    gap: 10px;
+    left: 403px;
+    padding: 32px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .frame-34 {
+    height: 29px;
+    left: 11px;
+    position: absolute;
+    top: -14px;
+    width: 41px;
+  }
+  
+  .home .frame-35 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    gap: 10px;
+    left: 548px;
+    padding: 16px;
+    position: absolute;
+    top: 94px;
+  }
+  
+  .home .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .frame-36 {
+    height: 29px;
+    left: 654px;
+    position: absolute;
+    top: 80px;
+    width: 41px;
+  }
+  
+  .home .footer-instance {
+    background-color: transparent !important;
+    left: 42px !important;
+    position: absolute !important;
+    top: 2984px !important;
+  }
+  
+  .home .footer-2 {
+    background-image: url(./union.svg) !important;
+  }
+  
+  .home .first {
+    height: 454px;
+    left: 179px;
+    position: absolute;
+    top: 86px;
+    width: 1039px;
+  }
+  
+  .home .group-8 {
+    height: 241px;
+    left: 0;
+    position: absolute;
+    top: 79px;
+    width: 549px;
+  }
+  
+  .home .elias-is-a-web {
+    height: 74px;
+    left: 3px;
+    position: absolute;
+    top: 7px;
+    width: 513px;
+  }
+  
+  .home .text-wrapper-13 {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 25px;
+    position: absolute;
+    top: 125px;
+    width: 470px;
+  }
+  
+  .home .overlap-wrapper {
+    height: 414px;
+    left: 563px;
+    position: absolute;
+    top: 0;
+    width: 476px;
+  }
+  
+  .home .overlap-2 {
+    height: 414px;
+    position: relative;
+  }
+  
+  .home .logo-2 {
+    height: 166px;
+    left: 0;
+    position: absolute;
+    top: 90px;
+    width: 157px;
+  }
+  
+  .home .overlap-group-3 {
+    height: 167px;
+    position: relative;
+    top: -1px;
+    width: 158px;
+  }
+  
+  .home .union-3 {
+    height: 125px;
+    left: 0;
+    position: absolute;
+    top: 43px;
+    width: 79px;
+  }
+  
+  .home .union-4 {
+    height: 127px;
+    left: 78px;
+    position: absolute;
+    top: 0;
+    width: 81px;
+  }
+  
+  .home .image-2 {
+    height: 414px;
+    left: 12px;
+    position: absolute;
+    top: 0;
+    width: 464px;
+  }
+  
+  .home .dots {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    justify-content: space-between;
+    left: 374px;
+    position: absolute;
+    top: 264px;
+    width: 85px;
+  }
+  
+  .home .frame-37 {
+    align-items: center;
+    background-color: var(--background);
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: flex;
+    gap: 10px;
+    height: 40px;
+    left: 595px;
+    padding: 8px;
+    position: absolute;
+    top: 414px;
+    width: 408px;
+  }
+  
+  .home .rectangle-8 {
+    background-color: var(--primary);
+    border: 1px solid;
+    border-color: #c778dd;
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .home .currently-working-on {
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .home .header {
+    align-items: flex-end;
+    background-color: var(--background);
+    display: flex;
+    justify-content: space-between;
+    left: 171px;
+    padding: 32px 0px 8px;
+    position: fixed;
+    top: 0;
+    width: 1024px;
+  }
+  
+  .home .frame-38 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .home .logo-3 {
+    background-image: url(./union.svg);
+    background-size: 100% 100%;
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .home .text-wrapper-14 {
+    color: var(--white);
+    font-family: "Fira Code-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .frame-39 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .home .header-link {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .home .text-wrapper-15 {
+    color: var(--primary);
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .text-wrapper-16 {
+    color: var(--white);
+    font-family: "Fira Code-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .text-wrapper-17 {
+    color: var(--primary);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .language-switcher {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .home .text-wrapper-18 {
+    color: var(--gray);
+    font-family: "Fira Code-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .group-9 {
+    height: 5px;
+    position: relative;
+    width: 10px;
+  }
+  
+  .home .overlap-group-4 {
+    height: 6px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .home .line-3 {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .home .line-4 {
+    height: 6px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 6px;
+  }
+  
+  .home .frame-40 {
+    align-items: flex-start;
+    background-color: var(--background);
+    border: 1px solid;
+    border-color: #abb2bf;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 1px;
+    left: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding: 8px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .home .text-wrapper-19 {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .text-wrapper-20 {
+    color: var(--gray);
+    font-family: "Fira Code-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home .media-2 {
+    left: 17px !important;
+    position: fixed !important;
+    top: 0 !important;
+  }

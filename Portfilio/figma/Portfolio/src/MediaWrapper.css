@@ -1,0 +1,29 @@
+.media-wrapper {
+    align-items: center;
+    background-color: var(--background);
+    display: inline-flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .media-wrapper .line-stroke-2 {
+    height: 191px;
+    position: relative;
+    width: 1px;
+  }
+  
+  .media-wrapper .frame-12 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .media-wrapper .img-2 {
+    height: 32px;
+    position: relative;
+    width: 32px;
+  }
